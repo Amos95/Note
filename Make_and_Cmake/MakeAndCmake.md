@@ -1,3 +1,11 @@
+To Do
+
+* 查看学习公司Cmake整个架构
+
+
+
+
+
 1. Make
 
    * Make工具就根据MakeFile中的命令进行编译和链接的.
@@ -32,4 +40,6 @@
 
    MakeFile在一些简单的工程完全可以人工手下，但是当工程非常大的时候，手写MakeFile也是非常麻烦的。
 
-   Cmake根据CmakeList.txt跨平台生成对应平台能用的MakeFile。
+   Cmake根据CmakeList.txt跨平台生成对应平台能用的MakeFile。\
+
+   参考：https://blog.csdn.net/zhuiyunzhugang/article/details/88142908
